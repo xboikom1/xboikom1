@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm a Full‑Stack JavaScript Developer focused on building end‑to‑end web applications with modern tools and best practices.
+A Full‑Stack JavaScript Developer focused on building end‑to‑end web applications with modern tools and best practices.
 
 ---
 
