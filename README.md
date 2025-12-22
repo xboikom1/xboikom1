@@ -3,14 +3,16 @@ A Full‑Stack JavaScript Developer focused on building end‑to‑end web appli
 ---
 
 ### 🛠 Tech Stack
-
+![Next.js](https://img.shields.io/badge/Next.js-ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
 ![React](https://img.shields.io/badge/React-61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC)
+![Express.js](https://img.shields.io/badge/Express.js-ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154)
 ![Python](https://img.shields.io/badge/Python-3776AB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26)
