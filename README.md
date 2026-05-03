@@ -28,6 +28,6 @@ A Full‑Stack JavaScript Developer focused on building end‑to‑end web appli
 
 ### 📫 Contacts
 
-- Email: xboikom1@stuba.sk
-- Telegram: @Maks_2_2
+- Email: Maksimboiko222@gmail.com
+- Telegram: @xboikom
 - LinkedIn: www.linkedin.com/in/maksym-boiko-
